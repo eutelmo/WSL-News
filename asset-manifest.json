@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WSL-News/static/css/main.7ee29344.css",
+    "main.js": "/WSL-News/static/js/main.8c232773.js",
+    "static/js/787.090d54af.chunk.js": "/WSL-News/static/js/787.090d54af.chunk.js",
+    "static/media/esquerdas.png": "/WSL-News/static/media/esquerdas.969e4e9f06e63bf7d079.png",
+    "static/media/gabriel.PNG": "/WSL-News/static/media/gabriel.7e0788487df5d453785c.PNG",
+    "static/media/nazare1.PNG": "/WSL-News/static/media/nazare1.9447e170ef17c8d92cbb.PNG",
+    "static/media/italo_olympicos.jpg": "/WSL-News/static/media/italo_olympicos.b0aba52a194dbce5d9f0.jpg",
+    "static/media/nazare.jpg": "/WSL-News/static/media/nazare.5578ed4ecdf13d96c142.jpg",
+    "static/media/pinterest-logo-icon-3206.png": "/WSL-News/static/media/pinterest-logo-icon-3206.d9e8d6de70d8c2d0e154.png",
+    "static/media/NicePng_white-youtube-png_425745.png": "/WSL-News/static/media/NicePng_white-youtube-png_425745.ff7f3f46395144f5252b.png",
+    "static/media/NicePng_facebook-symbol-png_2071672.png": "/WSL-News/static/media/NicePng_facebook-symbol-png_2071672.4f45695068052e32fde2.png",
+    "index.html": "/WSL-News/index.html",
+    "main.7ee29344.css.map": "/WSL-News/static/css/main.7ee29344.css.map",
+    "main.8c232773.js.map": "/WSL-News/static/js/main.8c232773.js.map",
+    "787.090d54af.chunk.js.map": "/WSL-News/static/js/787.090d54af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee29344.css",
+    "static/js/main.8c232773.js"
+  ]
+}
